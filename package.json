@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-dns",
+  "name": "@feizheng/ushell-module-dns",
   "version": "1.0.0",
   "description": "Dns ushell module.",
   "main": "index.sh",
@@ -13,12 +13,12 @@
     "shell",
     "ushell-module-dns"
   ],
-  "authors": [
-    "feizheng <1290657123@qq.com>"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-dns/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-dns"
+  "homepage": "https://github.com/afeiship/ushell-module-dns",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
