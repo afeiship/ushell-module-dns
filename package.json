@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-dns",
+  "name": "@jswork/ushell-module-dns",
   "version": "1.0.0",
   "description": "Dns ushell module.",
   "main": "index.sh",
@@ -9,9 +9,8 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-dns"
+    "module",
+    "dns"
   ],
   "license": "MIT",
   "bugs": {

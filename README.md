@@ -7,7 +7,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-dns
+npm i -S @jswork/ushell-module-dns
 ```
 
 ## notes
